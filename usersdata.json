@@ -2,16 +2,16 @@
   [
     {
       "name": "Aditya",
-      "age": 27,
+      "age": "27",
       "email": "Aditya@gmail.com",
-      "id": 1,
+      "id": "1",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
     },
     {
       "name": "akshay",
       "age": "12",
       "email": "hjanaj",
-      "id": 2,
+      "id": "2",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
     },
@@ -19,7 +19,7 @@
       "name": "sallu",
       "age": "46",
       "email": "akak",
-      "id": 3,
+      "id": "3",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
     },
@@ -27,21 +27,21 @@
       "name": "aakash",
       "age": "15",
       "email": "ahma",
-      "id": 4,
+      "id": "4",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
     },
     {
-      "name": "af ",
-      "age": "jh",
-      "email": "fhhh",
-      "id": 5
+      "name": "Sumit ",
+      "age": "45",
+      "email": "sumit@gmail.com",
+      "id": "5"
     },
     {
       "name": "nikita",
       "age": "27",
       "email": "email.com",
-      "id": 6,
+      "id": "6",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
     },
@@ -49,7 +49,7 @@
       "name": "aakash",
       "age": "31",
       "email": "aadi.kori.9085@gmail.com",
-      "id": 7,
+      "id": "7",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
     }
