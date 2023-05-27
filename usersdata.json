@@ -11,7 +11,7 @@
     {
       "name": "akshay",
       "age": "12",
-      "email": "hjanaj",
+      "email": "akshay@gmail.com",
       "id": "2",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
@@ -19,7 +19,7 @@
     {
       "name": "sallu",
       "age": "46",
-      "email": "akak",
+     "email": "sallu@gmail.com",
       "id": "3",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
@@ -27,7 +27,7 @@
     {
       "name": "aakash",
       "age": "15",
-      "email": "ahma",
+     "email": "aakash@gmail.com",
       "id": "4",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
@@ -42,7 +42,7 @@
     {
       "name": "nikita",
       "age": "27",
-      "email": "email.com",
+      "email": "nikita@gmail.com",
       "id": "6",
       "image":"https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
 
